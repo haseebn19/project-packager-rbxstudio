@@ -1,6 +1,6 @@
 # Project Packager [Roblox Studio]
 
-Project Packager is an open-source plugin designed to help Roblox developers manage and organize their assets more effectively within Roblox Studio. With features for packing and unpacking assets into structured folders, this tool aims to simplify asset management, improve project organization, and streamline your development workflow.
+Project Packager is an open-source plugin designed to help Roblox developers manage and organize their assets more effectively within Roblox Studio. With features for packing and unpacking assets into structured folders, this tool aims to simplify asset management and improve project organization.
 
 ---
 
@@ -51,4 +51,6 @@ You have two options for installation:
 
 ---
 
-This plugin is designed to make project management within Roblox Studio more efficient and easy. I hope this plugin can make your development process smoother.
+## License
+
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
